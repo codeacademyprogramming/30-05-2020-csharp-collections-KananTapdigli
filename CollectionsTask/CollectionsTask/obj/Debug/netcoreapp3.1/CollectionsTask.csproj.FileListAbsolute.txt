@@ -1,0 +1,13 @@
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.exe
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.deps.json
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.runtimeconfig.json
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.runtimeconfig.dev.json
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.dll
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\bin\Debug\netcoreapp3.1\CollectionsTask.pdb
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.dll
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.pdb
+C:\Users\Kenan\source\repos\CollectionsTask\CollectionsTask\obj\Debug\netcoreapp3.1\CollectionsTask.genruntimeconfig.cache
